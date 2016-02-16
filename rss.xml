@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Paul Henderson]]></title>
         <description><![CDATA[Paul Henderson]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/paul-henderson/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 21:33:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 16 Feb 2016 06:22:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/paul-henderson/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Remembering why]]></title>
-            <description><![CDATA[<article><h1>Remembering why</h1><p>It was sweltering.  The drops of sweat beading down my face were of little relief as the Florida sun beat down on my suit. The entire class was donned in MOPP 4 gear, the highest level of protection from biological and chemical agents. Earlier, we raced to throw on the charcoal coated garments over our military issued Battle Dress Uniforms (BDU's), completely encapsulated with the drawstrings cinched tight around our waist and gas mask. Duck tape was liberally applied to the ends of our rubber boots and gloves, creating an air tight uniform. Finally, gas mask seal checks were completed followed by inspections to ensure each step had been precisely followed. It was finally time.</p></article>]]></description>
-            <link>undefinedremembering-why/index.html</link>
+            <description><![CDATA[<article><h1>Remembering why</h1><p>It was sweltering.  The drops of sweat beading down my face were of little relief as the Florida sun beat down on my suit. The entire class was donned in MOPP 4 gear, the highest level of protection from biological and chemical agents. Earlier, we raced to throw on the charcoal coated garments over our military issued Battle Dress Uniforms (BDU's), completely encapsulated with the drawstrings cinched tight around our waist and gas mask. Duck tape was liberally applied to the ends of our rubber boots and gloves, creating an air tight uniform. Gas mask seal checks were completed followed by inspections to ensure each step had been precisely followed. It was finally time.</p></article>]]></description>
+            <link>https://thegrid.ai/paul-henderson/remembering-why/index.html</link>
             <guid isPermaLink="false">96c7f858-405c-46c4-80b6-9177dbb59d05</guid>
-            <pubDate>Mon, 15 Feb 2016 21:33:48 GMT</pubDate>
+            <pubDate>Tue, 16 Feb 2016 06:21:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
